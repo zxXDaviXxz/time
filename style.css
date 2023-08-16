@@ -117,7 +117,7 @@ article {
 }
 
 aside {
-    text-decoration: overline;
+    text-decoration: underline;
     background-color: var(--cor4);
     margin: auto;
     margin-top: 20px;
